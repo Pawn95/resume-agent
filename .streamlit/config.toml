@@ -1,0 +1,7 @@
+# Streamlit 界面配置
+[client]
+# minimal：隐藏右上角 Deploy（部署）按钮和工具栏开发菜单
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

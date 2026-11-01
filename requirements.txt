@@ -1,0 +1,5 @@
+streamlit>=1.36
+sqlmodel>=0.0.22
+litellm>=1.44
+pydantic>=2.7
+python-dotenv>=1.0
